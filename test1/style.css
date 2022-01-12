@@ -1,0 +1,21 @@
+#title{
+    background-color: beige;
+}
+
+#table_1{
+    width: 300px;
+    border: 15px solid rgb(212, 160, 18);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 20px;
+}
+
+#result{
+    width: 300px;
+    border: 15px solid rgb(46, 235, 21);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 20px;
+}
